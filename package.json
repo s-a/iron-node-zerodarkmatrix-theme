@@ -1,0 +1,12 @@
+{
+  "name": "iron-node-zerodarkmatrix-theme",
+  "version": "1.0.0",
+  "description": "A",
+  "main": "index.js",
+  "iron_node_package": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephan Ahlf <stephan.ahlf@gmail.com> (https://github.com/s-a)",
+  "license": "MIT"
+}

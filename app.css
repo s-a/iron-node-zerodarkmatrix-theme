@@ -1,0 +1,39 @@
+body {
+  background-color: #2C2C2C;
+  color:#CBCBCB;
+}
+
+.blankslate, footer{
+  background: #2C2C2C;
+  color:#CBCBCB;
+}
+
+.menu-item{
+  	background: #2C2C2C;
+  	color:#CBCBCB;
+}
+.menu-item:hover, .menu-item.selected{
+  	background: #2C2C2C;
+  	color:#CBCBCB;
+}
+
+.menu-item{
+  	color:#CBCBCB;
+	text-shadow:0 0 0 #000;
+	border: 0;
+}
+
+.menu-item .octicon{
+	color:#FF9635;
+}
+
+.menu{
+	border: 0;
+}
+
+.menu-item:last-child, .menu-item:first-child{
+	border-bottom-right-radius:0;
+	border-bottom-left-radius:0;
+	border-top-right-radius:0;
+	border-top-left-radius:0;
+}

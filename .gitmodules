@@ -1,0 +1,3 @@
+[submodule "chrome-devtools-zerodarkmatrix-theme"]
+	path = chrome-devtools-zerodarkmatrix-theme
+	url = https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme.git
