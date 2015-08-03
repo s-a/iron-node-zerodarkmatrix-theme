@@ -1,6 +1,6 @@
 {
   "name": "iron-node-zerodarkmatrix-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A",
   "main": "index.js",
   "iron_node_package": true,
@@ -17,6 +17,11 @@
   "bugs": {
     "url": "https://github.com/s-a/iron-node-zerodarkmatrix-theme/issues"
   },
-  "keywords":["theme", "layout", "iron-node", "plugin"],
+  "keywords": [
+    "theme",
+    "layout",
+    "iron-node",
+    "plugin"
+  ],
   "homepage": "https://github.com/s-a/iron-node-zerodarkmatrix-theme"
 }
