@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/s-a/iron-node-zerodarkmatrix-theme/issues"
   },
+  "keywords":["theme", "layout", "iron-node", "plugin"],
   "homepage": "https://github.com/s-a/iron-node-zerodarkmatrix-theme"
 }

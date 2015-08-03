@@ -1,5 +1,5 @@
-![ironNode](/logo_sm.png)  
-A Theme For [ironNode](http://s-a.github.io/iron-node/)  
+![ironNode](/logo_sm.png) Theme For [ironNode](http://s-a.github.io/iron-node/)  
+[![npm version](https://badge.fury.io/js/iron-node-zerodarkmatrix-theme.svg)](http://badge.fury.io/js/iron-node-zerodarkmatrix-theme)
 
 ## Installation
 ```bash
