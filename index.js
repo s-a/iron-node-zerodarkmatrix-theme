@@ -15,7 +15,8 @@ Theme.prototype.loadCSS = function() {
 
 Theme.prototype.loadExtension = function() {
 	var dir = path.join(__dirname, "chrome-devtools-zerodarkmatrix-theme","theme-extension" );
-	var ext = require('remote').require('browser-window').addDevToolsExtension(dir);
+	var ext = require('remote').require('browser-window');
+	ext = ext.addDevToolsExtension(dir);
 	console.info("loaded dev-tools-extension", "chrome-devtools-zerodarkmatrix-theme", ext);
 };
 
