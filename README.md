@@ -1,8 +1,9 @@
-![ironNode](/logo_sm.png) Theme [ironNode](http://s-a.github.io/iron-node/)  
-[![npm version](https://badge.fury.io/js/iron-node-zerodarkmatrix-theme.svg)](http://badge.fury.io/js/iron-node-zerodarkmatrix-theme)
+![ironNode](/logo_sm.png) Theme [![npm version](https://badge.fury.io/js/iron-node-zerodarkmatrix-theme.svg)](http://badge.fury.io/js/iron-node-zerodarkmatrix-theme)  
 
 
-A port for ironNode of [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Google Chrome *by (Maurice Cruz)[https://github.com/mauricecruz]*.  
+A port for [ironNode](http://s-a.github.io/iron-node/) of [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Google Chrome *by (Maurice Cruz)[https://github.com/mauricecruz]*.  
+
+
 *:warning: This is an unofficial theme and can break the functionality of Chrome Developer Tools*
 
 ## Installation
