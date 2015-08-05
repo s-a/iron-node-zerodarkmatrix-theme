@@ -14,16 +14,14 @@ Theme.prototype.loadCSS = function() {
 };
 
 Theme.prototype.loadExtension = function() {
+	var ext = require('remote').require('browser-window').removeDevToolsExtension("DevTools Theme: Zero Dark Matrix");
 	var dir = path.join(__dirname, "chrome-devtools-zerodarkmatrix-theme","theme-extension" );
-	var ext = require('remote').require('browser-window');
-	ext = ext.addDevToolsExtension(dir);
-	console.info("loaded dev-tools-extension", "chrome-devtools-zerodarkmatrix-theme", ext);
+	//ext = require('remote').require('browser-window').addDevToolsExtension(dir);
 };
 
 Theme.prototype.init = function() {
 	this.loadCSS();
 	this.loadExtension();
 };
-
 
 module.exports = Theme;
